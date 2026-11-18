@@ -1,9 +1,6 @@
 # AgentVault Product Requirements Document
 
-**Status:** Draft for review  
-**Version:** 1.0  
-**Date:** 2026-11-18  
-**Product:** AgentVault  
+ 
 
 ## 1. Executive Summary
 
@@ -762,7 +759,3 @@ Before HLD work, the following decisions should be confirmed:
 10. What is the first deployment target: local-only, a single cloud environment, or both?
 11. Which threat scenarios are release blockers if the MVP fails them?
 12. What latency overhead is acceptable for protected execution after the baseline is measured?
-
-## 21. Next Step
-
-Review this PRD and confirm changes to the product scope, MVP, integrations, and decisions above. After approval, the next deliverable should be the user personas and user-flow document, followed by the high-level design.
